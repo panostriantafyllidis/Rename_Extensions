@@ -4,6 +4,11 @@ A Bash script that renames all the files inside a specified folder path, into a 
 Useful if you have multiple files of .png that you want to make .jpeg or .vid that you want to make .mp4...
 Or more commonly, converting multiple .web into .png , for those times you fine a nice website that only downloads .web images.
 
+### Important Notes
+
+- The script solely renames the file extension and does not convert file contents.
+- Backup your files prior to batch processing to prevent irreversible changes.
+- The path format might vary based on your Bash environment (e.g., Git Bash, WSL, Cygwin). Adjust accordingly.
 
 ## How to use
 
@@ -52,8 +57,3 @@ To rename all files in /c/Users/MonyPython/images to have a .jpg extension:
 ./rename_extensions.sh '/c/Users/MontyPython/images' + jpg
 ```
 
-### Important Notes
-
-- The script solely renames the file extension and does not convert file contents.
-- Backup your files prior to batch processing to prevent irreversible changes.
-- The path format might vary based on your Bash environment (e.g., Git Bash, WSL, Cygwin). Adjust accordingly.

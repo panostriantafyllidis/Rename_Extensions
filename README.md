@@ -52,7 +52,7 @@ To rename all files in /c/Users/MonyPython/images to have a .jpg extension:
 ./rename_extensions.sh '/c/Users/MontyPython/images' + jpg
 ```
 
-###Important Notes
+### Important Notes
 
 - The script solely renames the file extension and does not convert file contents.
 - Backup your files prior to batch processing to prevent irreversible changes.

@@ -28,7 +28,7 @@ To use this script, ensure a Bash environment is set up on your system:
 
 Clone your repository with the command:
 ```
-
+https://github.com/panostriantafyllidis/Rename_Extensions.git
 ```
 
 ### Navigate to the Script Directory

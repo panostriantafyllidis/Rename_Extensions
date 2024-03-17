@@ -1,5 +1,6 @@
 # Rename_Extensions
 A Bash script that renames all the files inside a specified folder path, into a desired file extension(assuming you know they are compatible e.g. dont try to convert a .mp3 file into .jpg or a video .vid file into png (and vice versa).
+
 Useful if you have multiple files of .png that you want to make .jpeg or .vid that you want to make .mp4...
 Or more commonly, converting multiple .web into .png , for those times you fine a nice website that only downloads .web images.
 

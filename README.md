@@ -12,7 +12,8 @@ Or more commonly, converting multiple .web into .png , for those times you fine 
 
 ## How to use
 
-- type: 
+- Open GitBash and navigate to the script folder (or directly open VS Code using the Workspace file - use Bash Terminal) 
+- type-in: 
 ``` 
 ./rename_extensions.sh 'path/to/your/folder' + desired_new_extension.
 ```

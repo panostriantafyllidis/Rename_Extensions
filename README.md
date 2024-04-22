@@ -6,7 +6,7 @@ Or more commonly, converting multiple .web into .png , for those times you fine 
 
 ### Important Notes
 
-- The script solely renames the file extension and does not convert file contents.
+- The script solely renames the file extensions.
 - Backup your files prior to batch processing to prevent irreversible changes.
 - The path format might vary based on your Bash environment (e.g., Git Bash, WSL, Cygwin). Adjust accordingly.
 
